@@ -5,10 +5,9 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <ul>
-<li>💻 Backend developer focusing on <b>Ruby on Rails</b></li>
+<li>💻 Software developer focusing on <b>Ruby on Rails</b></li>
 <li>📱 Interested in <b>Flutter development</b></li>
 <li>🧪 Enjoy writing <b>tests and improving code quality</b></li>
-<li>🌱 Currently learning <b>system design</b></li>
 </ul>
 
 <h3 align="left">🛠 Languages and Tools</h3>
