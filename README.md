@@ -26,9 +26,3 @@
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwanpeemai" />
 </p>
-
-<h3 align="left">📫 Connect with me</h3>
-
-<a href="https://www.linkedin.com/in/kwanpeemai-puengchai-492899336/">
-LinkedIn
-</a>
